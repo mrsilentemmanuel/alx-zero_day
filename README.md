@@ -1,1 +1,8 @@
-My other readme
+My first readme
+
+
+^C
+i
+clear
+wq
+quit
